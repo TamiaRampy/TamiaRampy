@@ -54,11 +54,7 @@ A modern weather app showing real-time forecasts with location-based data and UI
 
 ---
 
-## 📄 Resume
 
-[📄 Click here to download my resume](MyResume.pdf)
-
----
 
 > “Learning never exhausts the mind, it only ignites it.” – Tamia
 
