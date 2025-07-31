@@ -43,6 +43,7 @@ A simple and stylish task manager with light/dark mode and full CRUD functionali
 ### 🔹 [Weather App](https://tamiarampy.github.io/weather-app/)
 A modern weather app showing real-time forecasts with location-based data and UI theme toggle.
 
+
 ---
 
 ## 📫 Contact Me
