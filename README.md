@@ -10,7 +10,7 @@ Hi, I'm **Tamia Ramplin**, an aspiring software developer with a keen interest i
 
 ### 🎓 Education
 - 🎓 Tygerberg High School (2017 - 2021)
-- 🎓 Richfield - Diploma in IT (2022 - 2024)
+- 🎓 Richfield - Diploma Information Technology (2022 - 2024)
 
 ---
 
